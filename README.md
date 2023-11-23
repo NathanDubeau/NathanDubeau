@@ -2,7 +2,9 @@ Hey! 👋
 
 My name is Nathan and I'm a computer engineering student from Canada. Here's some info about me!
 
-Currently studying as a first year Computer Engineering student at Algonquin College learning about:
+Currently studying as a first year Computer Engineering student at Algonquin College!
+
+Some things I'm learning in and out of school include:
 
   Programming Languages:
   - C | Java | Javascript | Python
