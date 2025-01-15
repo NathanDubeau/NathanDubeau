@@ -23,4 +23,4 @@ As well as SQL Database management and development.
 - Travel.
 - Basketball and American Football.
 
-📫 Visit my website for a visual representation of my work: https://nathandubeau.com
+📫 
